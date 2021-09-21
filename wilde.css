@@ -1,18 +1,25 @@
+.name{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 17px;
+    color: black; 
+}
 .speech{
     font-family:'Times New Roman' ;
     font-size: 17px;
     color: black;
 }
-.stage-direction :hover{
+.stage-direction{
     
     font-family:'Arial Narrow' ;
     font-size : 17px;;
-    background-color :lightskyblue;
-    color:deeppink;
-
-
-
+    background-color:paleturquoise;
+    color:black;
 }
+.stage-direction:hover{
+    background-color:darkturquoise;
+    color:firebrick;
+}
+
 .PARKER{
     
     color:purple;
