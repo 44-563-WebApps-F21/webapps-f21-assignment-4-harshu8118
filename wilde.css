@@ -36,3 +36,26 @@
     color:midnightblue;
 
 }
+table{
+    border: solid ;
+    padding: 30px 35px 40px;
+    margin: 50px 50px;
+    width: 60%; 
+  }
+  th{
+    color:black;
+    border: 1px solid black;
+    text-align: left;
+    background-color:burlywood;
+
+  }
+  td{
+    color: black;
+    border: 1px mixed black;
+    text-align: left;
+  }
+
+  tr:nth-child(even){
+    background-color: skyblue;
+  }
+     
